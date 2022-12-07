@@ -1,2 +1,2 @@
 # About task
-Enter an array and print the transpose of it.
+Enter a 2D array and print the transpose of it.
