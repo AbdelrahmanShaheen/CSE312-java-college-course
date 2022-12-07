@@ -1,6 +1,5 @@
 # About 
-quick sort algo is one of the sorting techniques.
-also called :
+quick sort algo is one of the sorting techniques.                                                                                                                           also called :
 - Selection exchange sort
 - partition exchange sort
 
