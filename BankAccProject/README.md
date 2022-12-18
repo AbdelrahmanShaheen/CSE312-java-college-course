@@ -8,4 +8,5 @@ This is a bank account program.
 - Get your last transaction
 
 ## Class Diagram 
-- ![BankAcc1](https://user-images.githubusercontent.com/77184432/206086591-1bbdd5da-3d9a-4aa0-9d7e-a94fd1e0984c.png)
+
+![classDiagram](https://user-images.githubusercontent.com/77184432/207445701-dfdf4512-532e-4f30-abb4-c3431e8d4ecd.png)
